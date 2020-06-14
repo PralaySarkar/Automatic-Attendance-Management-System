@@ -37,31 +37,20 @@
 <img src="https://github.com/PralaySarkar/Automatic-Attendance-Management-System/blob/master/1.PNG">
 
 ### When it's Recognise me
-<img src="https://github.com/Spidy20/Attendace_management_system/blob/master/Screenshot%20(41).png">
+<img src="https://github.com/PralaySarkar/Automatic-Attendance-Management-System/blob/master/4.PNG">
 
 ### When it's fill a attendace
-<img src="https://github.com/Spidy20/Attendace_management_system/blob/master/Screenshot%20(42).png">
+<img src="https://github.com/PralaySarkar/Automatic-Attendance-Management-System/blob/master/5.PNG">
 
 ### Manually attendance filling UI
 <img src="https://github.com/PralaySarkar/Automatic-Attendance-Management-System/blob/master/3.PNG">
 
+### Check register students
+Username: IIITK
+Password: 
+<img src="https://github.com/PralaySarkar/Automatic-Attendance-Management-System/blob/master/2.PNG">
+
 
 ### How it works? See:)
 
-<img src="https://github.com/Spidy20/Attendace_management_system/blob/master/AMS.gif">
-
-### Video demo
-
-[Youtube](https://www.youtube.com/watch?v=dXViSRRydRs)
-
-
-### Notes
-- It will require high processing power(I have 8 GB RAM & 2 GB GC)
-- If you think it will recognise person just like humans,than leave it ,its not possible.
-- Noisy image can reduce your accuracy so quality of images matter.
-
-## Just follow☝️ me and Star⭐ my repository 
-
-## Read our Machine learning & Data science related blogs:- [Here](https://www.vruttitanna.com/post/why-kaggle-is-important-for-data-science)
-
-## Buy more projects at very low price:- [STORE](https://www.instamojo.com/kushalbhavsar1820)
+<img src="https://github.com/PralaySarkar/Automatic-Attendance-Management-System/blob/master/AAMSgif.gif">
