@@ -43,7 +43,7 @@
 <img src="https://github.com/Spidy20/Attendace_management_system/blob/master/Screenshot%20(42).png">
 
 ### Manually attendance filling UI
-<img src="https://github.com/Spidy20/Attendace_management_system/blob/master/Screenshot%20(44).png">
+<img src="https://github.com/PralaySarkar/Automatic-Attendance-Management-System/blob/master/3.PNG">
 
 
 ### How it works? See:)
