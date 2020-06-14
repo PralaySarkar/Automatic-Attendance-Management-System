@@ -46,8 +46,8 @@
 <img src="https://github.com/PralaySarkar/Automatic-Attendance-Management-System/blob/master/3.PNG">
 
 ### Check register students
-Username: IIITK
-Password: 
+*Username: IIITK<br>
+Password: iiit@20<br>*
 <img src="https://github.com/PralaySarkar/Automatic-Attendance-Management-System/blob/master/2.PNG">
 
 
