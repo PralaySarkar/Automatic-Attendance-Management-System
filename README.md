@@ -34,7 +34,7 @@
 ### Screenshots
 
 ### Basic UI
-<img src="https://github.com/PralaySarkar/Automatic-Attendance-Management-System/blob/master/1.png">
+<img src="https://github.com/PralaySarkar/Automatic-Attendance-Management-System/blob/master/1.PNG">
 
 ### When it's Recognise me
 <img src="https://github.com/Spidy20/Attendace_management_system/blob/master/Screenshot%20(41).png">
