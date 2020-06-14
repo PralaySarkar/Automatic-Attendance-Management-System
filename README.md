@@ -1,4 +1,4 @@
-##  Attendance Management system using Face👦🏻Recognition [![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg)](https://github.com/Spidy20/Attendace_management_system/blob/master/LICENSE)
+##  Attendance Management system using Face👦🏻Recognition
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)                 
 [![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)   
@@ -36,19 +36,20 @@
 ### Basic UI
 <img src="https://github.com/PralaySarkar/Automatic-Attendance-Management-System/blob/master/1.PNG">
 
+### Check register students
+*Username: IIITK<br>
+Password: iiit@20<br>*
+<img src="https://github.com/PralaySarkar/Automatic-Attendance-Management-System/blob/master/2.PNG">
+
+### Manually attendance filling UI
+<img src="https://github.com/PralaySarkar/Automatic-Attendance-Management-System/blob/master/3.PNG">
+
 ### When it's Recognise me
 <img src="https://github.com/PralaySarkar/Automatic-Attendance-Management-System/blob/master/4.PNG">
 
 ### When it's fill a attendace
 <img src="https://github.com/PralaySarkar/Automatic-Attendance-Management-System/blob/master/5.PNG">
 
-### Manually attendance filling UI
-<img src="https://github.com/PralaySarkar/Automatic-Attendance-Management-System/blob/master/3.PNG">
-
-### Check register students
-*Username: IIITK<br>
-Password: iiit@20<br>*
-<img src="https://github.com/PralaySarkar/Automatic-Attendance-Management-System/blob/master/2.PNG">
 
 
 ### How it works? See:)
